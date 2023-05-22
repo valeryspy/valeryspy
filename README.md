@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valeryspy
 - 👀 I’m an experienced Data Analyst with interest in Data Science
 - 🌱 I’m developing my skillset in Machine Learning and Artificial Intelligence 
-- 💞️ I’m looking to collaborate on projects in business and scientific domain
+- 💞️ I’m looking for projects in business and scientific domain
 - 📫 How to reach me [Valeriia Spytsa LinkedIn](https://www.linkedin.com/in/valeriia-spytsa-b4105a110/)
 
 <!---
